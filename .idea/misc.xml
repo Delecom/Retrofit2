@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Hamza/UIDesign/app/src/main/res/drawable/main_background.xml" value="0.32685185185185184" />
+        <entry key="..\:/Hamza/UIDesign/app/src/main/res/drawable/otpbackground.xml" value="0.3138888888888889" />
+        <entry key="..\:/Hamza/UIDesign/app/src/main/res/drawable/shape.xml" value="1.08125" />
+        <entry key="..\:/Hamza/UIDesign/app/src/main/res/drawable/sign_background.xml" value="0.3138888888888889" />
+        <entry key="..\:/Hamza/UIDesign/app/src/main/res/font/font.xml" value="0.32685185185185184" />
+        <entry key="..\:/Hamza/UIDesign/app/src/main/res/layout/activity_forget_password.xml" value="0.3333333333333333" />
+        <entry key="..\:/Hamza/UIDesign/app/src/main/res/layout/activity_home.xml" value="0.2" />
+        <entry key="..\:/Hamza/UIDesign/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Hamza/UIDesign/app/src/main/res/layout/activity_otpactivity.xml" value="0.3333333333333333" />
+        <entry key="..\:/Hamza/UIDesign/app/src/main/res/layout/activity_reset_password.xml" value="0.3333333333333333" />
+        <entry key="..\:/Hamza/UIDesign/app/src/main/res/layout/activity_resetpassword.xml" value="0.3333333333333333" />
+        <entry key="..\:/Hamza/UIDesign/app/src/main/res/layout/activity_sign_in.xml" value="0.25" />
+        <entry key="..\:/Hamza/UIDesign/app/src/main/res/layout/activity_sign_up.xml" value="0.25" />
+        <entry key="..\:/Hamza/UIDesign/app/src/main/res/layout/fragment_dashboard.xml" value="0.171875" />
+        <entry key="..\:/Hamza/UIDesign/app/src/main/res/layout/fragment_first.xml" value="0.3333333333333333" />
+        <entry key="..\:/Hamza/UIDesign/app/src/main/res/layout/fragment_second.xml" value="0.3333333333333333" />
+        <entry key="..\:/Hamza/UIDesign/app/src/main/res/menu/bottom_nav.xml" value="0.33" />
+        <entry key="..\:/Hamza/UIDesign/app/src/main/res/menu/nav_view.xml" value="0.1" />
+        <entry key="..\:/Hamza/progect/UIDesign/app/src/main/res/layout/activity_sign_up.xml" value="0.33229166666666665" />
+        <entry key="..\:/Hamza/project/UIDesign/app/src/main/res/drawable/cursor_drawable.xml" value="0.30925925925925923" />
+        <entry key="..\:/Hamza/project/UIDesign/app/src/main/res/drawable/shape.xml" value="0.30925925925925923" />
+        <entry key="..\:/Hamza/project/UIDesign/app/src/main/res/layout-v23/navigation_view.xml" value="0.3333333333333333" />
+        <entry key="..\:/Hamza/project/UIDesign/app/src/main/res/layout/activity_firebase.xml" value="0.3333333333333333" />
+        <entry key="..\:/Hamza/project/UIDesign/app/src/main/res/layout/activity_forget_password.xml" value="0.3333333333333333" />
+        <entry key="..\:/Hamza/project/UIDesign/app/src/main/res/layout/activity_home.xml" value="0.31354166666666666" />
+        <entry key="..\:/Hamza/project/UIDesign/app/src/main/res/layout/activity_main.xml" value="0.3333333333333333" />
+        <entry key="..\:/Hamza/project/UIDesign/app/src/main/res/layout/activity_sign_in.xml" value="0.25" />
+        <entry key="..\:/Hamza/project/UIDesign/app/src/main/res/layout/activity_sign_up.xml" value="0.25" />
+        <entry key="..\:/Hamza/project/UIDesign/app/src/main/res/layout/fragment_dashboard.xml" value="0.3333333333333333" />
+        <entry key="..\:/Hamza/project/UIDesign/app/src/main/res/layout/fragment_profile.xml" value="0.25" />
+        <entry key="..\:/Hamza/project/UIDesign/app/src/main/res/layout/fragment_user.xml" value="0.31354166666666666" />
+        <entry key="..\:/Hamza/project/UIDesign/app/src/main/res/layout/navigation_view.xml" value="0.3333333333333333" />
+        <entry key="..\:/Hamza/project/UIDesign/app/src/main/res/layout/user_item.xml" value="0.3333333333333333" />
+        <entry key="..\:/Hamza/project/UIDesign/app/src/main/res/menu-v26/bottom_nav.xml" value="0.31354166666666666" />
+        <entry key="..\:/Hamza/project/UIDesign/app/src/main/res/menu/bottom_nav.xml" value="0.31354166666666666" />
+        <entry key="..\:/Hamza/project/UIDesign/app/src/main/res/menu/botton_nav.xml" value="0.3333333333333333" />
+        <entry key="..\:/Hamza/project/UIDesign/app/src/main/res/menu/logged_out.xml" value="0.3333333333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
